@@ -1,0 +1,47 @@
+body { font-family: Verdana,MV Boli,sans-serif;
+font-size: 30px;
+color: #F0FFFF;
+text-align: center;
+background-color: #000000;}
+
+h3{ margin-left: 80px;
+margin-top: 20px;
+font-size: 100%;
+color: #7CFC00;}
+
+.blanco{ font-weight:bold;
+color: #00BFFF ;}
+
+h1{ margin-left: 80px;
+margin-top: 20px;
+font-size: 180%;
+color: #7CFC00;}
+
+div.f1 {
+  border: px solid #00FFFF;
+  margin: 45px;
+  width: 1000px;
+  height: 250px;
+  float: middle;
+}
+
+tr{
+  text-align: center;
+}
+td.dod{
+  color: red;
+  font-size: 120%;
+  font-weight: bold;
+  font-style: italic;
+}
+
+td.doe{
+  color: blue;
+  font-size: 120%;
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.blanco{ font-weight:bold;
+color: #00BFFF ;}
